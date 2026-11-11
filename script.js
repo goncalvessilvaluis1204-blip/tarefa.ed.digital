@@ -9,5 +9,7 @@ botaocurtir.{addeventistener("click",curtir);
           curtiu = true;}
       } else
 
+        const btnTema = document.queryselector(". BTN-Tema");
+        btntema.addeventistener
 
 
