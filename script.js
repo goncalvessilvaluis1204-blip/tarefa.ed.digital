@@ -9,7 +9,11 @@ botaocurtir.{addeventistener("click",curtir);
           curtiu = true;}
       } else
 
-        const btnTema = document.queryselector(". BTN-Tema");
-        btntema.addeventistener
+      const btnTema = document.queryselector(". BTN-Tema");
+     btntema.addeventistener("click"), (mudarTema);
+    function mudartema (){
+  document.body.classlist.toggle("tema escuro");
+  }
+          
 
 
